@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '41313'
     url: http://www.gutenberg.org/2009/agents/41313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41707#The-Development-of-Metaphysics-in-PersiaA-Contribution-to-the-History-of-Muslim-Philosophy
 gutenberg_issued: '2012-12-26'
 gutenberg_type: Text
 identifiers:
